@@ -330,6 +330,7 @@ func parseAlbumMeta(meta *AlbumMetadata) map[string]string {
 }
 
 func parseTrackMeta(trackMeta *LiteTrackMetadata, albMeta map[string]string, trackNum, trackTotal int) map[string]string {
+	albMeta["artist"] = trackMeta.DisplayArtistName
 	albMeta["title"] = trackMeta.Name
 	albMeta["tracknum"] = fmt.Sprintf("%d/%d", trackNum, trackTotal)
 	albMeta["trackNum"] = strconv.Itoa(trackNum)
