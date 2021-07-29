@@ -10,8 +10,7 @@ Configure config file if needed.
 | --- | --- |
 |format|Download quality. 1 = 96 AAC PLUS, 2 = 192 AAC, 3 = best/320 AAC
 |outPath|Where to download to. Path will be made if it doesn't already exist.
-|trackTemplate|Track filename template. Vars: album, albumArtist, copyright, genre, title, trackNum, trackNumPad, trackTotal, year
-
+|trackTemplate|Track filename template. Vars: album, albumArtist, artist, copyright, genre, title, trackNum, trackNumPad, trackTotal, year
 
 # Usage
 Args take priority over the config file.
