@@ -1,6 +1,6 @@
 # Napster-Downloader
 Napster downloader written in Go.
-![](https://i.imgur.com/OkOzGgV.png)
+![](https://i.imgur.com/FPInZVO.png)
 [Windows binaries](https://github.com/Sorrow446/Napster-downloader/releases)
 
 # Setup
@@ -26,7 +26,7 @@ Download a single album and from two text files:
 |   | |___ ___ ___| |_ ___ ___   |    \ ___ _ _ _ ___| |___ ___ _| |___ ___
 | | | | .'| . |_ -|  _| -_|  _|  |  |  | . | | | |   | | . | .'| . | -_|  _|
 |_|___|__,|  _|___|_| |___|_|    |____/|___|_____|_|_|_|___|__,|___|___|_|
-                  |_|
+          |_|                                                                                                           
 
 Usage: np_dl_x64.exe [--format FORMAT] [--outpath OUTPATH] URLS [URLS ...]
 
