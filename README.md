@@ -29,7 +29,7 @@ Download a single album and from two text files:
 |_|___|__,|  _|___|_| |___|_|    |____/|___|_____|_|_|_|___|__,|___|___|_|
                   |_|
 
-Usage: main.exe [--format FORMAT] [--outpath OUTPATH] URLS [URLS ...]
+Usage: np_dl_x64.exe [--format FORMAT] [--outpath OUTPATH] URLS [URLS ...]
 
 Positional arguments:
   URLS
