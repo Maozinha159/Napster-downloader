@@ -1,5 +1,5 @@
 {
     "format": 3,
     "outPath": "Napster downloads",
-    "trackTemplate": "{{ .trackNumPad}}. {{ .title }}"
+    "trackTemplate": "{{.trackNumPad}}. {{.title}}"
 }
