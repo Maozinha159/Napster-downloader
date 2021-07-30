@@ -19,7 +19,7 @@ Download two albums:
 `np_dl_x64.exe https://app.napster.com/artist/deadmau5/album/tau-v1-v2-single https://app.napster.com/artist/deadmau5/album/random-album-title-awal-records`
 
 Download a single album and from two text files:   
-`np-dl_x64.exe.exe https://app.napster.com/artist/deadmau5/album/tau-v1-v2-single G:\1.txt G:\2.txt`
+`np-dl_x64.exe https://app.napster.com/artist/deadmau5/album/tau-v1-v2-single G:\1.txt G:\2.txt`
 
 ```
  _____             _              ____                _           _
