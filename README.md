@@ -38,3 +38,8 @@ Options:
   --outpath OUTPATH, -o OUTPATH
   --help, -h             display this help and exit
 ```
+
+# Disclaimer
+- I will not be responsible for how you use Napster Downloader.    
+- Napster brand and name is the registered trademark of its respective owner.    
+- Napster Downloader has no partnership, sponsorship or endorsement with Napster.
